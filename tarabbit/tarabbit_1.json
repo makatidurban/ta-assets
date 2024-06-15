@@ -1,8 +1,8 @@
 {
     "name": "Tarot card 1",
     "description": "Tarot card 1 description.",
-    "image": "https://assets.tarabbit.com/nft/2.jpg",
-    "content_url": "https://assets.tarabbit.com/nft/2.jpg",
+    "image": "https://raw.githubusercontent.com/makatidurban/ta-assets/main/tarabbit/2.jpg",
+    "content_url": "https://raw.githubusercontent.com/makatidurban/ta-assets/main/tarabbit/2.jpg",
     "attributes": [
         {
             "trait_type": "gold",
