@@ -1,0 +1,12 @@
+{
+    "name": "Tarot card 1",
+    "description": "Tarot card 1 description.",
+    "image": "https://raw.githubusercontent.com/makatidurban/ta-assets/main/tarabbit/3.jpg",
+    "content_url": "https://raw.githubusercontent.com/makatidurban/ta-assets/main/tarabbit/3.jpg",
+    "attributes": [
+        {
+            "trait_type": "silver",
+            "value": "Super cool 2"
+        }
+    ]
+}
